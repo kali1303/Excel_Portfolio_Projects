@@ -1,4 +1,4 @@
-# Excel_Portfolio_Projects
+
 # Call Centre Performance Report – Excel Dashboard
 
 
@@ -44,19 +44,19 @@ Total Calls Handled: 1,000
 
 Total Call Duration: 89,850 minutes
 
-Total Revenue: ₹96,623
+Total Revenue: $96,623
 
 Average Rating: 3.89 ★
 
-5★ Calls: 307
+Happy Callers: 307
 
-![Pizza KPI Dashboard](https://github.com/kali1303/PowerBI_projects/blob/main/Pizza/KPIs.png?raw=true)
+![Pizza KPI Dashboard](https://github.com/kali1303/Excel_Portfolio_Projects/blob/main/Call_kpis.png?raw=true)
 
 ### 📈 Step 4: Trend & Category Analysis
 #### 📅 Daily Trends
-Most Active Day: Monday
+Most Active Day: Saturday
 
-Least Active Day: Saturday
+Least Active Day: Thursday 
 
 Visualized using column chart with slicer for day selection.
 
@@ -67,37 +67,61 @@ Helps identify performance spikes and drops.
 
 Used combo line+column charts.
 
-![Pizza KPI Dashboard](https://github.com/kali1303/PowerBI_projects/blob/main/Pizza/Daily_trends.png?raw=true)
+#### Most active months: March and April
+
+#### Least active month: December, Novermber, Augest
+
+These weekly and monthly trends of calls helps the organization to find out the reason for call drops in particular days and months to take necessary actions.
+
+![Pizza KPI Dashboard](https://github.com/kali1303/Excel_Portfolio_Projects/blob/main/Calls_trends.png?raw=true)
 
 ### 👥 Step 5: Representative Performance
-🔝 Top Representatives (By Revenue):
-R02 – ₹20,581
+### 🔝 Top Representatives (By Revenue):
+R03 – $20,872
 
-R01 – ₹18,415
+R02 – $20,581
 
-R04 – ₹13,935
+R05 – $20,104
 
-R03 – ₹12,895
+R01 – $18,415
 
-R05 – ₹12,797
+R04 – $16,651
+
+![Pizza KPI Dashboard](https://github.com/kali1303/Excel_Portfolio_Projects/blob/main/Call_reps_revenue.png?raw=true)
 
 ### ⭐ Step 6: Customer Satisfaction Analysis
-Rating Distribution: 5★ ratings dominate, followed by 4★ and 3★.
+Rating Distribution: 4★ ratings dominate, followed by 5★ and 3★.
 
-Bucketed Ratings: Rounded for aggregation (3★, 4★, 5★).
+
 
 Duration Buckets: 1–2 hrs was the most common call length.
 
 
+![Pizza KPI Dashboard](https://github.com/kali1303/Excel_Portfolio_Projects/blob/main/Call_rating.png?raw=true)
 
 
-### 👨‍👩‍👧‍👦 Step 7: Customer Demographic Insights
-Category	Observation
-Age Group	Majority of customers are aged 25–40
-Gender Split	Slightly more males in data
-Top Cities	Columbus, Cleveland, Cincinnati
+### 🔍 Insights from Regional Call Performance Data
+#### 📍 City-Wise Performance
+#### Cincinnati
 
-These insights can help tailor communication styles or support hours.
+Highest revenue from customer: C0004 with $7,689 total.
+
+Lowest performer from customer: C0003 with $4,804 total.
+
+#### Cleveland
+
+Highest : C0013 with $7,230.
+
+Lowest : C0008 with $5,009 especially 
+
+#### Columbus
+
+Highest : C0005 with $7,747.
+
+Lowest: C0014 with $5,404.
+
+![Pizza KPI Dashboard](https://github.com/kali1303/Excel_Portfolio_Projects/blob/main/Call_custormers.png?raw=true)
+
 
 
 ### 🌟 Special Features
@@ -109,10 +133,20 @@ These insights can help tailor communication styles or support hours.
 
 📊 Effective visualizations using icons, bars, and conditional formatting
 
+![Pizza KPI Dashboard](https://github.com/kali1303/Excel_Portfolio_Projects/blob/main/rep1.png?raw=true)
 
-## The Pizza sales report images:
-### Page 1
-![Pizza KPI Dashboard](https://github.com/kali1303/PowerBI_projects/blob/main/Pizza/Pizza_sales_1.png?raw=true)
+![Pizza KPI Dashboard](https://github.com/kali1303/Excel_Portfolio_Projects/blob/main/rep2.png?raw=true)
+
+![Pizza KPI Dashboard](https://github.com/kali1303/Excel_Portfolio_Projects/blob/main/rep3.png?raw=true)
+
+![Pizza KPI Dashboard](https://github.com/kali1303/Excel_Portfolio_Projects/blob/main/rep4.png?raw=true)
+
+![Pizza KPI Dashboard](https://github.com/kali1303/Excel_Portfolio_Projects/blob/main/rep5.png?raw=true)
+
+
+
+## Call Centre Final Report
+![Pizza KPI Dashboard](https://github.com/kali1303/Excel_Portfolio_Projects/blob/main/Call_cetre_report.png?raw=true)
 
 
 ## 📌 Conclusion
